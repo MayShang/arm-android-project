@@ -1,0 +1,6 @@
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "amhello"]
+	path = amhello
+	url = https://github.com/shanecelis/amhello.git
